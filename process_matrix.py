@@ -147,7 +147,7 @@ def display_matrix(matrix: list[list]) -> None:
 import pandas as pd
 def display_matrix_pandas(matrix: list[list[int]]) -> None:
     '''
-    Displays a matrix as a pandas dataframe.
+    Displays a matrix as a pandas data frame.
     '''
 
     new_matrix = []
