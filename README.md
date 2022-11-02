@@ -5,4 +5,4 @@ This program is the final project for the first module at Keepcoding's IT Bootca
 
 In addition, I have included some extra functions that were not required for the project, but I thought that they would make the program much more complete.
 These functions generate a matrix with random values, generate a matrix with the operations that take place when processing a matrix and display any matrix to console.
-I have also defined a display function that displays a matrix as a pandas data frame, to take in practice what I learnt in Le Wagon webinar.
+I have also defined a display function that displays a matrix as a pandas data frame, to take in practice what I learnt in Le Wagon's webinar.
